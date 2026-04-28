@@ -33,7 +33,7 @@
 
 •به لینک زیر بروید
 
-🔗https://github.com/ali25az/ir-downloader
+🔗Link: https://github.com/ali25az/ir-downloader
 
 • روی دکمه Fork (بالای راست صفحه) کلیک کنید.
 • در صفحه جدید، روی Create Fork بزنید.
